@@ -137,5 +137,28 @@ Conclusions
 - Cost and schedule envelope is as critical as a science yield
 - evolve under GOMAP
 
-## Open Source Science Initiative and SMD's Scientific Information Policy 
-- 
+## Open Source Science Initiative and SMD's Scientific Information Policy : Steve Crawford (Science Data Officer SMD)
+Open-source Science Initiative SPD-41a
+- Science information policy
+- Ensuring free, immediate, and equitable access to federally funded research
+- SMD need an ORCID
+- Assign proposals a DOI
+- Encourage development of open-source software
+
+Open Science Principles
+- Accessible
+- Reproducible
+- Inclusive
+- Maximizes open-ness, minimizes burden on researchers
+
+Exclusive Access
+- periods of exclusive use for existing missions are not interrupted
+- Open-use policies won't interrupt
+
+Question
+- Difference between openly-available data and useable data
+- What mechanisms exist to make data worth using?
+    - standards for metadata
+    - encourage accessible documentation
+
+
